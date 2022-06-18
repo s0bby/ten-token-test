@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ten-token-test/static/css/main.fc7f2904.css",
+    "main.js": "/ten-token-test/static/js/main.491ca377.js",
+    "static/js/787.90c8a7ce.chunk.js": "/ten-token-test/static/js/787.90c8a7ce.chunk.js",
+    "static/media/ethereum.svg": "/ten-token-test/static/media/ethereum.56be968daa6550277d1c072139054f17.svg",
+    "index.html": "/ten-token-test/index.html",
+    "main.fc7f2904.css.map": "/ten-token-test/static/css/main.fc7f2904.css.map",
+    "main.491ca377.js.map": "/ten-token-test/static/js/main.491ca377.js.map",
+    "787.90c8a7ce.chunk.js.map": "/ten-token-test/static/js/787.90c8a7ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7f2904.css",
+    "static/js/main.491ca377.js"
+  ]
+}
