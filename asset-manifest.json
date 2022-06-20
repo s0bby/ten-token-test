@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/ten-token-test/static/css/main.fc7f2904.css",
-    "main.js": "/ten-token-test/static/js/main.491ca377.js",
-    "static/js/787.90c8a7ce.chunk.js": "/ten-token-test/static/js/787.90c8a7ce.chunk.js",
-    "static/media/ethereum.svg": "/ten-token-test/static/media/ethereum.56be968daa6550277d1c072139054f17.svg",
-    "index.html": "/ten-token-test/index.html",
-    "main.fc7f2904.css.map": "/ten-token-test/static/css/main.fc7f2904.css.map",
-    "main.491ca377.js.map": "/ten-token-test/static/js/main.491ca377.js.map",
-    "787.90c8a7ce.chunk.js.map": "/ten-token-test/static/js/787.90c8a7ce.chunk.js.map"
+    "main.css": "/ten-token-test/static/css/main.c02000e0.css",
+    "main.js": "/ten-token-test/static/js/main.3e1f9ef9.js",
+    "static/js/965.31814459.chunk.js": "/ten-token-test/static/js/965.31814459.chunk.js",
+    "static/js/243.4878414c.chunk.js": "/ten-token-test/static/js/243.4878414c.chunk.js",
+    "static/js/510.26c4253c.chunk.js": "/ten-token-test/static/js/510.26c4253c.chunk.js",
+    "static/js/22.8acf3042.chunk.js": "/ten-token-test/static/js/22.8acf3042.chunk.js",
+    "static/js/809.85eecde6.chunk.js": "/ten-token-test/static/js/809.85eecde6.chunk.js",
+    "static/js/651.79596a9f.chunk.js": "/ten-token-test/static/js/651.79596a9f.chunk.js",
+    "static/js/27.e989448b.chunk.js": "/ten-token-test/static/js/27.e989448b.chunk.js",
+    "static/js/855.ed64abb8.chunk.js": "/ten-token-test/static/js/855.ed64abb8.chunk.js",
+    "static/js/403.6d61d9dc.chunk.js": "/ten-token-test/static/js/403.6d61d9dc.chunk.js",
+    "static/js/508.1bad2dba.chunk.js": "/ten-token-test/static/js/508.1bad2dba.chunk.js",
+    "static/js/225.3c41ed79.chunk.js": "/ten-token-test/static/js/225.3c41ed79.chunk.js",
+    "static/js/741.a809af83.chunk.js": "/ten-token-test/static/js/741.a809af83.chunk.js",
+    "static/js/889.63af58c0.chunk.js": "/ten-token-test/static/js/889.63af58c0.chunk.js",
+    "static/js/550.7bc9021d.chunk.js": "/ten-token-test/static/js/550.7bc9021d.chunk.js",
+    "static/js/562.592f7ea2.chunk.js": "/ten-token-test/static/js/562.592f7ea2.chunk.js",
+    "static/js/461.e73c2800.chunk.js": "/ten-token-test/static/js/461.e73c2800.chunk.js",
+    "static/js/798.ed9fb473.chunk.js": "/ten-token-test/static/js/798.ed9fb473.chunk.js",
+    "index.html": "/ten-token-test/index.html"
   },
   "entrypoints": [
-    "static/css/main.fc7f2904.css",
-    "static/js/main.491ca377.js"
+    "static/css/main.c02000e0.css",
+    "static/js/main.3e1f9ef9.js"
   ]
 }
