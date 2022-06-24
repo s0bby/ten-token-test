@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ten-token-test/static/css/main.c02000e0.css",
-    "main.js": "/ten-token-test/static/js/main.3e1f9ef9.js",
+    "main.css": "/ten-token-test/static/css/main.115af1fa.css",
+    "main.js": "/ten-token-test/static/js/main.1311701a.js",
     "static/js/965.31814459.chunk.js": "/ten-token-test/static/js/965.31814459.chunk.js",
     "static/js/243.4878414c.chunk.js": "/ten-token-test/static/js/243.4878414c.chunk.js",
     "static/js/510.26c4253c.chunk.js": "/ten-token-test/static/js/510.26c4253c.chunk.js",
@@ -22,7 +22,7 @@
     "index.html": "/ten-token-test/index.html"
   },
   "entrypoints": [
-    "static/css/main.c02000e0.css",
-    "static/js/main.3e1f9ef9.js"
+    "static/css/main.115af1fa.css",
+    "static/js/main.1311701a.js"
   ]
 }
